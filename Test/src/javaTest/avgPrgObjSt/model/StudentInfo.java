@@ -1,4 +1,4 @@
-package avgPrgObjSt.model;
+package javaTest.avgPrgObjSt.model;
 
 import java.util.ArrayList;
 

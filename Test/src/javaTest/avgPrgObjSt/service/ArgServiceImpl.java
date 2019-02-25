@@ -1,11 +1,11 @@
-package avgPrgObjSt.service;
+package javaTest.avgPrgObjSt.service;
 
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.Scanner;
 
-import avgPrgObjSt.model.StudentInfo;
-import avgPrgObjSt.model.SubjectInfo;
+import javaTest.avgPrgObjSt.model.StudentInfo;
+import javaTest.avgPrgObjSt.model.SubjectInfo;
 
 public class ArgServiceImpl implements ArgService{
 	

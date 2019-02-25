@@ -1,4 +1,4 @@
-package avgPrg;
+package javaTest.avgPrg;
 
 public class AverageProgram {
 LogicClass logic = new LogicClass();

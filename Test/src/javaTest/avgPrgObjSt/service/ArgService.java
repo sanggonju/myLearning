@@ -1,4 +1,4 @@
-package avgPrgObjSt.service;
+package javaTest.avgPrgObjSt.service;
 
 public interface ArgService {
 	

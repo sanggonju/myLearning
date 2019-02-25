@@ -1,4 +1,4 @@
-package avgPrg;
+package javaTest.avgPrg;
 
 import java.util.ArrayList;
 import java.util.Comparator;

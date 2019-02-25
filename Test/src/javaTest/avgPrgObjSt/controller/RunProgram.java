@@ -1,9 +1,9 @@
-package avgPrgObjSt.controller;
+package javaTest.avgPrgObjSt.controller;
 
 import java.util.Scanner;
 
-import avgPrgObjSt.service.ArgService;
-import avgPrgObjSt.service.ArgServiceImpl;
+import javaTest.avgPrgObjSt.service.ArgService;
+import javaTest.avgPrgObjSt.service.ArgServiceImpl;
 
 public class RunProgram {
 

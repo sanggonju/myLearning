@@ -1,4 +1,4 @@
-package overloadingAndOverriding;
+package javaTest.overloadingAndOverriding;
 
 public class OverrideTest {
 	public void print() {

@@ -1,16 +1,16 @@
-package avgPrg;
+package javaTest.avgPrg;
 
 public class StuScoreInfo {
 	
-	private int stuNum; //¹øÈ£
+	private int stuNum; //ï¿½ï¿½È£
 	 
-	private int korScore; // ±¹¾î
+	private int korScore; // ï¿½ï¿½ï¿½ï¿½
 
-	private int mathScore; //¼öÇÐ
+	private int mathScore; //ï¿½ï¿½ï¿½ï¿½
 	
-	private int engScore;  //¿µ¾î
+	private int engScore;  //ï¿½ï¿½ï¿½ï¿½
 	
-	private double scoAvg; //Æò±Õ
+	private double scoAvg; //ï¿½ï¿½ï¿½
 	
 	public int getStuNum() {
 		return stuNum;

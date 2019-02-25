@@ -1,4 +1,4 @@
-package thisSuperExp;
+package javaTest.thisSuperExp;
 
 public class thisSuperTest {
 
@@ -8,7 +8,7 @@ public class thisSuperTest {
 		int age = 3;
 		PersonClass personClass = new PersonClass(gender, age);
 		
-		personClass.setName("аж╩С╟О");
+		personClass.setName("О©╫ж╩О©╫О©╫");
 		System.out.println(personClass);
 
 	}

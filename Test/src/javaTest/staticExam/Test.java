@@ -1,4 +1,4 @@
-package staticExam;
+package javaTest.staticExam;
 
 public class Test {
 

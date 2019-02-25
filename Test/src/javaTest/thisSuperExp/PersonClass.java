@@ -1,4 +1,4 @@
-package thisSuperExp;
+package javaTest.thisSuperExp;
 
 public class PersonClass extends HumanClass{
 	
